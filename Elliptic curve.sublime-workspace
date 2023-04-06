@@ -1,0 +1,658 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ra",
+				"rank"
+			],
+			[
+				"ramd",
+				"random"
+			],
+			[
+				"re",
+				"rec_pair"
+			],
+			[
+				"si",
+				"size"
+			],
+			[
+				"m",
+				"max"
+			],
+			[
+				"fo",
+				"for"
+			],
+			[
+				"size",
+				"size_sequence"
+			],
+			[
+				"rand",
+				"random"
+			],
+			[
+				"Ma",
+				"Matr_Init"
+			],
+			[
+				"for",
+				"for"
+			],
+			[
+				"MP",
+				"MPI_COMM_WORLD"
+			],
+			[
+				"Matr",
+				"Matr_temp"
+			],
+			[
+				"MPI_",
+				"MPI_COMM_WORLD"
+			],
+			[
+				"s",
+				"summ_array"
+			],
+			[
+				"su",
+				"summ_array"
+			],
+			[
+				"MPISE",
+				"MPI_Sendrecv"
+			],
+			[
+				"MPI",
+				"MPI_Send"
+			],
+			[
+				"inc",
+				"incep"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"e",
+				"echo"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"err",
+				"err_name"
+			],
+			[
+				"c",
+				"cost"
+			],
+			[
+				"er",
+				"err_name"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"el",
+				"elseif"
+			],
+			[
+				"h",
+				"h4"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"path",
+				"path_index"
+			],
+			[
+				"b",
+				"br"
+			],
+			[
+				"P",
+				"$_POST"
+			],
+			[
+				"Dele",
+				"delete()"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"_S",
+				"$_SESSION"
+			],
+			[
+				"sess",
+				"session_start()"
+			],
+			[
+				"style_",
+				"style_new_article"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"pat",
+				"path_logo"
+			],
+			[
+				"f",
+				"font-weight"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"al",
+				"alt"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"n",
+				"no-repeat"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"str_r",
+				"str_replace()"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"da",
+				"date_cont"
+			],
+			[
+				"date",
+				"date_cont"
+			],
+			[
+				"l",
+				"link"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"backgroundc",
+				"background-color"
+			],
+			[
+				"em",
+				"empty()"
+			],
+			[
+				"fw",
+				"fwrite()"
+			],
+			[
+				"rez",
+				"rezult"
+			],
+			[
+				"Re",
+				"rezult"
+			],
+			[
+				"_P",
+				"$_POST"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"err_",
+				"err_chechbox_first"
+			],
+			[
+				"ec",
+				"echo"
+			],
+			[
+				"_",
+				"$_POST"
+			],
+			[
+				"ht",
+				"html"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"lo",
+				"login"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"ta",
+				"text-align"
+			],
+			[
+				"cellp",
+				"cellspacing"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"t",
+				"tr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"PackageRe",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				" Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Pavital/Desktop/registration.jsp",
+		"/E/Endava/Experements/Authorisation/Authorisation1_Git/src/main/java/com/boots/config/MvcConfig.java",
+		"/E/Endava/Experements/Authorisation/Authorisation1_Git/src/main/java/com/boots/entity/User.java",
+		"/E/Endava/Experements/Authorisation/Authorisation1_Git/src/main/java/com/boots/entity/Role.java",
+		"/E/Endava/Experements/Authorisation/Authorisation1_Git/src/main/java/com/boots/service/UserService.java",
+		"/E/Универ/Криптоанализ/Лабы/Elliptic curve/report.txt",
+		"/E/Endava/Experements/Authorisation/Authorisation1_Git/src/main/java/com/boots/config/WebSecurityConfig.java",
+		"/E/Endava/Experements/Authorisation/Authorisation1_Git/src/main/webapp/WEB-INF/jsp/index.jsp",
+		"/E/Универ/Криптоанализ/Лабы/Новый текстовый документ.txt",
+		"/E/Универ/Криптоанализ/Лабы/MD4/report.txt",
+		"/E/Универ/Криптоанализ/Лабы/MD4/reportF.txt",
+		"/E/Универ/Криптоанализ/Лабы/MD4/reportG.txt",
+		"/E/Универ/Криптоанализ/Лабы/MD4/reportH.txt",
+		"/E/Универ/Криптоанализ/Лабы/MD4/reportFinal.txt",
+		"/C/Users/Pavital/Desktop/1.java",
+		"/C/Users/Pavital/Desktop/10101001101000110010110000011100011110101110100111",
+		"/F/Бафер/Бабаф/Новый текстовый документ.txt",
+		"/E/Универ/Криптоанализ/Лабы/md4/report.txt",
+		"/E/Endava/Endava Repository/SQL/lesson_1.sql",
+		"/E/Endava/Endava Repository/SQL/tech_courses_21",
+		"/E/Универ/Графика/Лабы/Новый текстовый документ.txt",
+		"/E/Endava/Endava Repository/SQL/lesson_2.sql",
+		"/E/Endava/Endava Repository/DesignPatterns/demo/pom.xml",
+		"/E/Endava/Endava Repository/DesignPatterns/demo/src/main/resources/application.properties",
+		"/C/Users/Pavital/Desktop/public.java",
+		"/C/Users/Pavital/Desktop/JdbcConnection.java",
+		"/E/Endava/Projects/Spring/demo_2/pom.xml",
+		"/E/Универ/Параллельное программирование/VPL5Ex1.cpp",
+		"/E/Универ/Параллельное программирование/Examples/Exemplu_3_5_1.cpp",
+		"/E/Универ/Параллельное программирование/Examples/Exemplu_3_4_6.cpp",
+		"/E/Универ/Параллельное программирование/Examples/Exemplu_3_4_7.cpp",
+		"/E/Универ/Параллельное программирование/Examples/Exemplu_3_4_5.cpp",
+		"/F/Install/WinToolkit_1.7.0.15/Settings.txt",
+		"/E/Projects/desktop.ini",
+		"/E/Универ/Параллельное программирование/Examples/Exemplu_3_4_3.cpp",
+		"/F/Install/Windows 10 iso/19043.1200_Compact_and_Full_x64_by_Flibustier/autorun.inf",
+		"/C/Users/Pavital/Desktop/Новый текстовый документ.txt",
+		"/C/Temp/scp14333/home/MI_IA3/PAVLEVICI/VPL3Ex2.cpp",
+		"/C/Temp/scp05002/home/MI_IA3/PAVLEVICI/Test_1/VPL4Ex3a_m_b=m.cpp",
+		"/C/Temp/scp14936/home/MI_IA3/PAVLEVICI/VPL1.cpp",
+		"/C/Temp/scp54740/home/MI_IA3/PAVLEVICI/Test_1/VPL5Ex2.cpp",
+		"/C/Temp/scp06988/home/MI_IA3/PAVLEVICI/Test_1/VPL4Ex3a_m_b=m.cpp",
+		"/C/Temp/scp44977/home/MI_IA3/PAVLEVICI/Test_1/Ex.cpp",
+		"/C/Users/Pavital/Desktop/Ex.cpp",
+		"/C/Temp/scp27777/home/MI_IA3/PAVLEVICI/Test_1/Ex.cpp",
+		"/C/Temp/scp19017/home/MI_IA3/PAVLEVICI/Test_1/Ex.cpp",
+		"/C/Temp/scp43377/home/MI_IA3/PAVLEVICI/Test_1/git.cpp",
+		"/C/Temp/scp49463/home/MI_IA3/PAVLEVICI/Test_1/VPL5Ex2.cpp",
+		"/C/Temp/scp17310/home/MI_IA3/PAVLEVICI/Test_1/VPL4Ex3a_m_b=m.cpp",
+		"/C/Temp/scp19406/home/MI_IA3/PAVLEVICI/Test_1/VPL4Ex3a_n_b=n.cpp",
+		"/C/Temp/scp42060/home/MI_IA3/PAVLEVICI/Test_1/Ex.cpp",
+		"/C/Temp/scp21150/home/MI_IA3/PAVLEVICI/Test_1/VPL4Ex3b_m_b=m.cpp",
+		"/C/Temp/scp47890/home/MI_IA3/PAVLEVICI/Test_1/rook.cpp",
+		"/C/Temp/scp08897/home/MI_IA3/PAVLEVICI/Test_1/Exemplu_3_4_5.cpp",
+		"/C/Temp/scp10537/home/MI_IA3/PAVLEVICI/Test_1/Ex.cpp",
+		"/C/Temp/scp26035/home/MI_IA3/Exemple_Suport_Curs/MPI/Exemplu_3_4_7.cpp",
+		"/C/Temp/scp26648/home/MI_IA3/Exemple_Suport_Curs/MPI/Exemplu_3_4_6.cpp",
+		"/C/Temp/scp25440/home/MI_IA3/Exemple_Suport_Curs/MPI/Exemplu_3_5_1.cpp",
+		"/C/Temp/scp25376/home/MI_IA3/Exemple_Suport_Curs/MPI/Exemplu_3_5_2.cpp",
+		"/C/Temp/scp50816/home/MI_IA3/PAVLEVICI/Test_1/Ex.cpp",
+		"/C/Temp/scp33005/home/MI_IA3/PAVLEVICI/Test_1/VPL5Ex1.cpp",
+		"/C/Temp/scp52110/home/MI_IA3/PAVLEVICI/Test_1/rook.cpp",
+		"/C/Temp/scp43755/home/MI_IA3/PAVLEVICI/Test_1/VPL5Ex2.cpp",
+		"/C/Temp/scp27768/home/MI_IA3/PAVLEVICI/Test_1/AN.cpp",
+		"/C/Temp/scp23414/home/MI_IA3/PAVLEVICI/Test_1/VPL5Ex2.cpp",
+		"/C/Users/Pavital/Desktop/VPL5Ex2.cpp",
+		"/C/Temp/scp38148/home/MI_IA3/PAVLEVICI/Test_1/VPL5Ex1.cpp",
+		"/C/Temp/scp15263/home/MI_IA3/PAVLEVICI/Test_1/AN.cpp",
+		"/C/Temp/scp32291/home/MI_IA3/PAVLEVICI/Test_1/VPL4Ex2.cpp",
+		"/C/Temp/scp25166/home/MI_IA3/PAVLEVICI/Test_1/git.cpp",
+		"/C/Temp/scp44643/home/MI_IA3/PAVLEVICI/Test_1/VPL5Ex3p.cpp",
+		"/E/Универ/Параллельное программирование/Examples/Exemplu_3_4_3 — копия.cpp",
+		"/C/Temp/scp10585/home/MI_IA3/PAVLEVICI/Test_1/VPL5Ex2.exe",
+		"/C/Temp/scp18766/home/MI_IA3/PAVLEVICI/Test_1/VPL5Ex2.cpp",
+		"/C/Temp/scp54238/home/MI_IA3/PAVLEVICI/Test_1/VPL5Ex2.cpp",
+		"/E/Универ/Параллельное программирование/Examples/Exemplu3.5.1.cpp",
+		"/E/Универ/Параллельное программирование/Examples/Exemplu3.4.2.cpp",
+		"/C/Temp/scp46301/home/MI_IA3/PAVLEVICI/Test_1/VPL3Ex3.cpp",
+		"/C/Temp/scp46188/home/MI_IA3/PAVLEVICI/Test_1/VPL3Ex4.cpp",
+		"/C/Temp/scp46637/home/MI_IA3/PAVLEVICI/Test_1/VPL4Ex1.cpp",
+		"/E/Универ/Параллельное программирование/Examples/VPL5Ex1.cpp",
+		"/C/Temp/scp29066/home/MI_IA3/PAVLEVICI/Test_1/VPL3Ex2.cpp",
+		"/C/Temp/scp32303/home/MI_IA3/PAVLEVICI/Test_1/AN.cpp",
+		"/E/Универ/Параллельное программирование/Examples/Exemplu_3_4_4.cpp",
+		"/E/Универ/Параллельное программирование/Examples/Exemplu_3_4_2.cpp",
+		"/E/Универ/Параллельное программирование/Examples/Exemplu_3_4_1.cpp",
+		"/E/Универ/Параллельное программирование/Examples/Exemplu_3_3_1.cpp",
+		"/C/Temp/scp09697/home/MI_IA3/PAVLEVICI/Test_1/VPL4Ex4a.cpp",
+		"/C/Temp/scp53229/home/MI_IA3/PAVLEVICI/Test_1/VPL3Ex1.cpp",
+		"/C/Temp/scp50288/home/MI_IA3/PAVLEVICI/Test_1/AN.cpp",
+		"/E/Универ/Параллельное программирование/Examples/Exemplu_3_2_1.cpp",
+		"/C/Temp/scp49278/home/MI_IA3/PAVLEVICI/Test_1/AN.cpp",
+		"/C/Temp/scp45320/home/MI_IA3/PAVLEVICI/Test_1/AN.cpp",
+		"/C/Temp/scp16686/home/MI_IA3/PAVLEVICI/Test_1/VPL3Ex3.cpp",
+		"/C/Temp/scp24391/home/MI_IA3/PAVLEVICI/Test_1/VPL4Ex1.cpp",
+		"/C/Temp/scp24116/home/MI_IA3/PAVLEVICI/Test_1/VPL3Ex4.cpp",
+		"/C/Users/Pavital/Desktop/команды.cpp -o VP321",
+		"/C/Temp/scp28465/home/MI_IA3/TESTAREA_1/Intrebari_despre_lucrarea_de_laborator_1_varianta_0.pdf",
+		"/C/Temp/scp16152/home/MI_IA3/TESTAREA_1/Testarea1_Suplementara_IA1802.pdf",
+		"/E/Универ/Параллельное программирование/Examples/Testarea1_Suplementara_IA1802.pdf",
+		"/C/Temp/scp47227/home/MI_IA3/PAVLEVICI/Test_1/VPL4Ex3b_m_b=m.cpp",
+		"/C/Temp/scp46948/home/MI_IA3/PAVLEVICI/Test_1/VPL3Ex3.cpp",
+		"/C/Temp/scp52311/home/MI_IA3/PAVLEVICI/Test_1/VPL4Ex2.cpp",
+		"/C/Temp/scp43964/home/MI_IA3/PAVLEVICI/Test_1/VPL4Ex3a_n_b=n.cpp",
+		"/C/Temp/scp44680/home/MI_IA3/PAVLEVICI/Test_1/VPL4Ex3a_n_b=n.cpp",
+		"/C/Temp/scp30480/home/MI_IA3/PAVLEVICI/Test_1/L4Ex3a_m_b=m.cpp",
+		"/C/Temp/scp15052/home/MI_IA3/PAVLEVICI/Test_1/VPL4Ex1.cpp",
+		"/C/Temp/scp55811/home/MI_IA3/PAVLEVICI/Test_1/VPL3Ex4.cpp",
+		"/C/Temp/scp47058/home/MI_IA3/PAVLEVICI/Test_1/Exemplu_3_4_1.cpp",
+		"/C/Temp/scp46498/home/MI_IA3/PAVLEVICI/Test_1/Exemplu_3_3_1.cpp",
+		"/C/Temp/scp41242/home/MI_IA3/PAVLEVICI/Test_1/VPL3Ex2.cpp",
+		"/C/Temp/scp38838/home/MI_IA3/PAVLEVICI/VPL3Ex2.cpp",
+		"/C/Temp/scp08121/home/MI_IA3/PAVLEVICI/VPL3Ex1.cpp",
+		"/C/Temp/scp05700/home/MI_IA3/PAVLEVICI/VPL3Ex1.cpp",
+		"/C/Users/Pavital/Desktop/VPL3Ex1.cpp",
+		"/C/Temp/scp18146/home/MI_IA3/PAVLEVICI/VPL3Ex1.cpp",
+		"/C/Temp/scp17968/home/MI_IA3/PAVLEVICI/MyEx.cpp",
+		"/C/Temp/scp39734/home/MI_IA3/PAVLEVICI/Exemplu_3_3_1.cpp",
+		"/C/Temp/scp51544/home/MI_IA3/PAVLEVICI/VPL3Ex1.cpp",
+		"/C/Temp/scp38359/home/MI_IA3/PAVLEVICI/VPL1.cpp",
+		"/C/Temp/scp50208/home/MI_IA3/PAVLEVICI/VPL1Ex3.cpp",
+		"/C/Temp/scp34317/home/MI_IA3/PAVLEVICI/Exemplu_3_4_3.cpp",
+		"/C/Temp/scp36444/home/MI_IA3/PAVLEVICI/Exemplu_3_4_4.cpp",
+		"/C/Temp/scp50318/home/MI_IA3/PAVLEVICI/Exemplu_3_4_4.cpp",
+		"/C/Temp/scp12604/home/MI_IA3/PAVLEVICI/VPL3Ex1.cpp",
+		"/C/Temp/scp21715/home/MI_IA3/PAVLEVICI/Exemplu_3_4_3.cpp",
+		"/C/Temp/scp14619/home/MI_IA3/PAVLEVICI/Exemplu_3_4_2.cpp",
+		"/C/Temp/scp19225/home/MI_IA3/PAVLEVICI/Exemplu_3_4_3.cpp"
+	],
+	"find":
+	{
+		"height": 78.0
+	},
+	"find_in_files":
+	{
+		"height": 226.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 78.0
+	},
+	"input":
+	{
+		"height": 78.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Elliptic curve.sublime-project",
+	"replace":
+	{
+		"height": 152.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 370.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
